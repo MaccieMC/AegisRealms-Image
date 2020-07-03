@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/container
+cd /home/container/${DL_VERSION}
 
 # Output Current Java Version
 java -version
