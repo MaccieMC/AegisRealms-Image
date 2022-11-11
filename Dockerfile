@@ -20,6 +20,7 @@
 # SOFTWARE.
 #
 
+
 FROM        openjdk:17-slim
 
 LABEL       author="Matthew Penner" maintainer="matthew@pterodactyl.io"
